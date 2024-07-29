@@ -4,12 +4,22 @@
 	<subtitle>Random, half-formed thoughts</subtitle>
 	<link href="https://micro.snptrs.com/microfeed.xml" rel="self"/>
 	<link href="https://micro.snptrs.com/"/>
-	<updated>2024-05-27T11:06:00Z</updated>
+	<updated>2024-07-29T10:51:31Z</updated>
 	<id>https://micro.snptrs.com</id>
 	<author>
 		<name>Sean Peters</name>
 		<email>youremailaddress@example.com</email>
 	</author>
+	
+	<entry>
+		<title></title>
+		<link href="https://micro.snptrs.com/some-new-test-title/"/>
+		<updated>2024-07-29T10:51:31Z</updated>
+		<id>https://micro.snptrs.com/some-new-test-title/</id>
+		<content type="html">&lt;p&gt;Final test post.&lt;/p&gt;
+&lt;p&gt;And a second line.&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title></title>
