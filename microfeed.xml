@@ -22,6 +22,15 @@
 	
 	<entry>
 		<title></title>
+		<link href="https://micro.snptrs.com/mobile-test-post/"/>
+		<updated>2024-07-29T00:00:00Z</updated>
+		<id>https://micro.snptrs.com/mobile-test-post/</id>
+		<content type="html">&lt;p&gt;Test from mobile&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
 		<link href="https://micro.snptrs.com/finished-reading-sagittarius/"/>
 		<updated>2024-05-27T11:06:00Z</updated>
 		<id>https://micro.snptrs.com/finished-reading-sagittarius/</id>
